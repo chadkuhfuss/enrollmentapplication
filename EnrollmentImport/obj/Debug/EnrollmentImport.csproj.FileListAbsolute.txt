@@ -1,0 +1,14 @@
+C:\Users\Chad\source\repos\EnrollmentImport\bin\Debug\EnrollmentImport.exe.config
+C:\Users\Chad\source\repos\EnrollmentImport\bin\Debug\EnrollmentImport.exe
+C:\Users\Chad\source\repos\EnrollmentImport\bin\Debug\EnrollmentImport.pdb
+C:\Users\Chad\source\repos\EnrollmentImport\obj\Debug\EnrollmentImport.csproj.CoreCompileInputs.cache
+C:\Users\Chad\source\repos\EnrollmentImport\obj\Debug\EnrollmentImport.exe
+C:\Users\Chad\source\repos\EnrollmentImport\obj\Debug\EnrollmentImport.pdb
+C:\Users\Chad\source\repos\EnrollmentImport\obj\Debug\EnrollmentImport.csprojAssemblyReference.cache
+D:\SourceCode\EnrollmentImport\EnrollmentImport\bin\Debug\EnrollmentImport.exe.config
+D:\SourceCode\EnrollmentImport\EnrollmentImport\bin\Debug\EnrollmentImport.exe
+D:\SourceCode\EnrollmentImport\EnrollmentImport\bin\Debug\EnrollmentImport.pdb
+D:\SourceCode\EnrollmentImport\EnrollmentImport\obj\Debug\EnrollmentImport.csprojAssemblyReference.cache
+D:\SourceCode\EnrollmentImport\EnrollmentImport\obj\Debug\EnrollmentImport.csproj.CoreCompileInputs.cache
+D:\SourceCode\EnrollmentImport\EnrollmentImport\obj\Debug\EnrollmentImport.exe
+D:\SourceCode\EnrollmentImport\EnrollmentImport\obj\Debug\EnrollmentImport.pdb
